@@ -59,3 +59,9 @@ main div {
   padding: 2em;
   color: rgb(88, 224, 224);
 }
+
+header {
+  place-items: top;
+  margin-right: 50px;
+  margin-top: 10px;
+}

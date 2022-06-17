@@ -88,3 +88,8 @@ p {
 img {
   margin-bottom: 4px;
 }
+header {
+  text-align: right;
+  margin-right: 50px;
+  margin-top: 10px;
+}
